@@ -192,3 +192,144 @@ Romanian often combines vowels smoothly like this.
 - Most letters always sound the same.
 - Stress usually falls naturally and becomes easier with exposure.
 - Reading out loud is one of the best ways to improve quickly.
+
+# Listening Exercise - Dictation
+
+![[Dictare 1.m4a]]
+
+Use this page only after completing the dictation exercise.
+
+---
+
+<details>
+<summary>Word 1</summary>
+
+mamă
+
+</details>
+
+<details>
+<summary>Word 2</summary>
+
+tată
+
+</details>
+
+<details>
+<summary>Word 3</summary>
+
+apă
+
+</details>
+
+<details>
+<summary>Word 4</summary>
+
+casă
+
+</details>
+
+<details>
+<summary>Word 5</summary>
+
+șarpe
+
+</details>
+
+<details>
+<summary>Word 6</summary>
+
+țară
+
+</details>
+
+<details>
+<summary>Word 7</summary>
+
+oaie
+
+</details>
+
+<details>
+<summary>Word 8</summary>
+
+iarnă
+
+</details>
+
+<details>
+<summary>Word 9</summary>
+
+iepure
+
+</details>
+
+<details>
+<summary>Word 10</summary>
+
+oameni
+
+</details>
+
+<details>
+<summary>Word 11</summary>
+
+creion
+
+</details>
+
+<details>
+<summary>Word 12</summary>
+
+ceai
+
+</details>
+
+<details>
+<summary>Word 13</summary>
+
+câine
+
+</details>
+
+<details>
+<summary>Word 14</summary>
+
+cine
+
+</details>
+
+<details>
+<summary>Word 15</summary>
+
+cheie
+
+</details>
+
+<details>
+<summary>Word 16</summary>
+
+gheață
+
+</details>
+
+<details>
+<summary>Word 17</summary>
+
+ghid
+
+</details>
+
+<details>
+<summary>Word 18</summary>
+
+girafă
+
+</details>
+
+<details>
+<summary>Word 19</summary>
+
+iubire
+
+</details>
