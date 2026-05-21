@@ -1,8 +1,8 @@
 #  Letters
 Romanian uses the Latin alphabet, with five additional letters:  
   
-- ă 
-![[audio/ă.m4a]]
+- ă
+![[ă.m4a]]
 - â / î  (same pronounciation different spelling)
 ![[â.m4a]]
 - ș  
@@ -14,13 +14,13 @@ Romanian uses the Latin alphabet, with five additional letters:
   
 # Special Romanian Letters  
 
-| Letter | Example             | Approximate sound                           | Sound and Description                       |
-| ------ | ------------------- | ------------------------------------------- | ------------------------------------------- |
-| ă      | mamă (*mother*)     | like the “a” in about                       | ![[mamă.m4a]]                               |
-| â      | câine (*dog*)       | central vowel, similar to î                 | ![[Romanian Course/Audio/caine.m4a\|caine]] |
-| î      | înger (*angel*)     | same sound as â (at the beginning of words) | ![[Romanian Course/Audio/caine.m4a\|caine]] |
-| ș      | șapte (*seven*)     | sh in shout                                 | ![[sapte.m4a]]                              |
-| ț      | țânțar (*mosquito*) | zz in pizza                                 | ![[țânțar.m4a]]                             |
+| Letter | Example             | Approximate sound                           | Sound and Description |
+| ------ | ------------------- | ------------------------------------------- | --------------------- |
+| ă      | mamă (*mother*)     | like the “a” in about                       | ![[mamă.m4a]]         |
+| â      | câine (*dog*)       | central vowel, similar to î                 | ![[caine.m4a]]        |
+| î      | înger (*angel*)     | same sound as â (at the beginning of words) | ![[caine.m4a]]        |
+| ș      | șapte (*seven*)     | sh in shout                                 | ![[sapte.m4a]]        |
+| ț      | țânțar (*mosquito*) | zz in pizza                                 | ![[țânțar.m4a]]       |
 
   
 # The Romanian Alphabet  
@@ -50,4 +50,3 @@ The following words in Romanian illustrate the additional letters in the Romania
 | înger    | angel   |     |
 | școală   | school  |     |
 | țară     | country |     |
-![[]]
